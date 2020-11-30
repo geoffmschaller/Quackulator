@@ -2,5 +2,5 @@
  
 A calculator app that makes various duck noises while you do your calculations
 
-![Fact One](fact.jpg)
+![Fact One](fact.jpg =100x200)
 ![Fact Two](fact2.jpg)
